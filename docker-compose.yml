@@ -7,9 +7,16 @@ services:
     network_mode: 'bridge'
     ports:
       - 8096:8096
+    # Configuración Windows
+    # volumes:
+    #   - E:\jellyfin\config:/config
+    #   - E:\jellyfin\cache:/cache
+    #   - E:\jellyfin\media:/media
+    #   - E:\jellyfin\media2:/media2
+    
+    # Configuración Mac-linux
     volumes:
-      - E:\jellyfin\config:/config
-      - E:\jellyfin\cache:/cache
-      - E:\jellyfin\media:/media
-      - E:\jellyfin\media2:/media2
+      - /Users/alemol/proyectos/medusa-proyect/config:/config
+      - /Users/alemol/proyectos/medusa-proyect/cache:/cache
+      - /Users/alemol/proyectos/medusa-proyect/media:/media
     restart: 'unless-stopped'
