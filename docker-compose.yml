@@ -10,15 +10,15 @@ services:
       - 8920:8920 #optional
 
     # Configuración Windows
-    # volumes:
-    #   - E:\jellyfin\config:/config
-    #   - E:\jellyfin\cache:/cache
-    #   - E:\jellyfin\media:/media
-    #   - E:\jellyfin\media2:/media2
+    volumes:
+      - E:\jellyfin\config:/config
+      - E:\jellyfin\cache:/cache
+      - E:\jellyfin\media:/media
+      - E:\jellyfin\media2:/media2
     
     # Configuración Mac-linux
-    volumes:
-      - /Users/alemol/proyectos/medusa-proyect/config:/config
-      - /Users/alemol/proyectos/medusa-proyect/cache:/cache
-      - /Users/alemol/proyectos/medusa-proyect/media:/media
+    #volumes:
+    #  - /Users/alemol/proyectos/medusa-proyect/config:/config
+    #  - /Users/alemol/proyectos/medusa-proyect/cache:/cache
+    #  - /Users/alemol/proyectos/medusa-proyect/media:/media
     restart: 'unless-stopped'
