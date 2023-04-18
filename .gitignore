@@ -38,3 +38,220 @@ config/data/library.db-journal
 config/data/ScheduledTasks/f9b057c0-54e9-e6da-ee4a-88ffd146a403.js
 config/log/log_20230418.log
 config/plugins/configurations/Jellyfin.Plugin.MusicBrainz.xml
+cache/images/resized-images/0/0a9225e0-f3ec-e623-eb27-bbebc301d241.webp
+cache/images/resized-images/0/0fc6c70f-3d3c-abba-153c-1a65f025daf7.webp
+cache/images/resized-images/1/1a7148fd-2107-8d58-0a43-0a33e3b4cf14.webp
+cache/images/resized-images/1/1ccf2864-4a1c-cab9-d1a7-1322499045f2.webp
+cache/images/resized-images/1/1d7862e7-892e-2ebb-6574-78c655ac83d4.webp
+cache/images/resized-images/1/1f9ce6c8-d731-2618-bbee-3ab53e26329f.webp
+cache/images/resized-images/1/127f00c9-1c47-e467-5949-7d3fce0ccf48.webp
+cache/images/resized-images/1/16758e10-9476-0400-c81f-f3634185a8bc.webp
+cache/images/resized-images/2/2b28ecaa-f97c-2fd3-15ed-3df07e748e63.webp
+cache/images/resized-images/2/2c86a617-a419-bb94-f444-577ba206d81d.webp
+cache/images/resized-images/2/2d427a66-0617-de7c-4ca8-54a1a5c5ff30.webp
+cache/images/resized-images/2/20ad50e4-3207-95da-1fb0-30e41e81ebb1.webp
+cache/images/resized-images/2/252cffd3-8dc2-0246-8587-6e0783a2a952.webp
+cache/images/resized-images/3/3cadc062-76fa-6b83-98e5-209fa8d3be4f.webp
+cache/images/resized-images/3/35bb1993-4fe4-2234-e065-6cb59bb8b289.webp
+cache/images/resized-images/3/38a62734-3b1b-5bc2-0d75-85414af89fe9.webp
+cache/images/resized-images/3/349ae1f0-3573-5806-e24c-bbad15aebf3c.webp
+cache/images/resized-images/3/3311f9c9-f7b2-e9f9-0134-11271311047c.webp
+cache/images/resized-images/4/4eb668bf-0ed2-1726-9579-bffc719d79ec.webp
+cache/images/resized-images/4/43cabee6-acd2-420c-e49e-7b16a8cd9e84.webp
+cache/images/resized-images/4/43d812ce-17ce-c5c8-b6b4-c61f012370b0.webp
+cache/images/resized-images/4/4561e416-77b0-4b5d-9564-07a16ca5ec3e.webp
+cache/images/resized-images/5/5a19e7e7-3fc5-7dfb-e27f-de16646cae30.webp
+cache/images/resized-images/5/50ca4369-1a38-441e-bd63-76fb55ba2e1f.webp
+cache/images/resized-images/5/56c491c9-b974-cae0-d765-59dcb20586a4.webp
+cache/images/resized-images/5/51683d0e-6243-b75a-30ec-18783b5546bb.webp
+cache/images/resized-images/6/6af8d76b-9257-263b-5b9e-dffdafbc56bb.webp
+cache/images/resized-images/6/6ef84845-41ed-cc18-efd7-b7c0d4c8be71.webp
+cache/images/resized-images/6/63ca0333-1e3c-222e-5ffb-80ad73064d41.webp
+cache/images/resized-images/6/67a1d077-ce25-942d-cc75-0358406d9d91.webp
+cache/images/resized-images/6/69c771a9-9509-6234-10aa-26a82e60afec.webp
+cache/images/resized-images/7/73d8ad52-8a25-70c5-5423-2ad5b1e89ea0.webp
+cache/images/resized-images/8/8cfac58b-2afc-4be4-4189-1a5ed41fbeaf.webp
+cache/images/resized-images/8/8e833d51-4c3b-5af9-8287-b81cd0e9e75b.webp
+cache/images/resized-images/8/8eaf085d-cd04-6128-767e-38b28a13c236.webp
+cache/images/resized-images/8/81d2822d-fd51-0df4-371f-17a8291ffb39.webp
+cache/images/resized-images/8/89b2fde9-3da4-69c7-e87f-7fe575004d61.webp
+cache/images/resized-images/8/833b049d-7dd5-f7de-f07c-28e58c12dc1c.webp
+cache/images/resized-images/8/890b546c-8a7f-c39f-53c7-2338e09fbb7b.webp
+cache/images/resized-images/8/81459030-30f8-2e7d-dc4f-c1e71b5ad7fe.webp
+cache/images/resized-images/9/99c5b817-d6c8-180d-e9c6-2043139974d8.webp
+cache/images/resized-images/a/a8aa2658-93c8-1275-c16b-00a5a1c0bd0c.webp
+cache/images/resized-images/a/a62d848d-fc77-5738-0457-804c47b51b1e.webp
+cache/images/resized-images/a/a73e8703-50f9-7c5c-0cf8-6024b128d7b9.webp
+cache/images/resized-images/a/a1026478-defe-e55c-6cc4-eda6bc9a81b1.webp
+cache/images/resized-images/a/ac05de78-56ed-6f61-4141-9e1315a879b6.webp
+cache/images/resized-images/a/ae7e4a40-d2fd-1090-fd33-546670f78914.webp
+cache/images/resized-images/b/b4cec57d-16b0-bf50-2373-11042c4389cc.webp
+cache/images/resized-images/b/b6f02836-76c0-3d5d-c622-b1f8110471fd.webp
+cache/images/resized-images/b/b31de81e-dd7d-7e83-c8a8-1813b1cb897b.webp
+cache/images/resized-images/b/b41422a6-a4a8-a3c2-a6a9-8ba6046bfd02.webp
+cache/images/resized-images/b/bca2554a-9cfb-36e7-4922-6cf562b26383.webp
+cache/images/resized-images/b/bf61e0c4-f227-3076-ed55-b78f44691697.webp
+cache/images/resized-images/c/c6536d46-764e-71ba-f208-436c73f13101.webp
+cache/images/resized-images/d/d2fd9434-ec64-6c93-57db-5603437c2f29.webp
+cache/images/resized-images/d/d75fa859-2737-ae1c-6442-76cac63619d6.webp
+cache/images/resized-images/d/db66eb44-1cd4-5027-0006-81fc9c006dd1.webp
+cache/images/resized-images/e/e2bc4a12-4a91-0d52-f691-d04a016fafda.webp
+cache/images/resized-images/e/e4b5983b-a4e3-fbd7-98f8-c586e2e78df4.webp
+cache/images/resized-images/e/e7a4683d-f353-d9e0-da22-45dc4cc0cb48.webp
+cache/images/resized-images/e/ec2e0f61-147e-2f57-b32a-79097f4adf36.webp
+cache/images/resized-images/e/ef6e2f74-bfa2-f067-419b-85e3ba02717d.webp
+cache/images/resized-images/f/f7451af7-cd7a-3f8f-0e6d-937bd938e5a7.webp
+cache/images/resized-images/f/fced14ec-6480-47c6-02ec-97042bc6caa8.webp
+cache/images/resized-images/f/fe637645-64e7-36f1-988c-34115ac9765d.webp
+cache/imagesbyname/remotestudiothumbs.txt
+cache/omdb/tt0088286.json
+cache/omdb/tt0099674.json
+cache/omdb/tt1157709.json
+cache/omdb/tt7405458.json
+cache/omdb/tt8079248.json
+cache/temp/07a699c3c4ac47e084ee946b0bbdb4c0.png
+cache/temp/9cd18743a87b463992d723e88377093c.png
+cache/temp/57f7b0c33ed2414ba830d54de3d48363.jpg
+cache/temp/62c1efa2851b412a9ae192e625bde80f.png
+cache/temp/93d537a9c5794cc389ef04397be64a36.png
+cache/temp/97fee1997c52462d9234b74c9707589f.png
+cache/temp/662c1fd695ac42599b2dbff78ae5ab98.png
+cache/temp/3814a9de0eb7432283baee5d48ff0f22.png
+cache/temp/a38ddf94a28545cba9b7e387d2192f2a.png
+cache/temp/c1a19437a5ff40d78e088f1f44a3eeb1.png
+cache/temp/f147e823-8702-421d-bd50-a274f37a9802.jpg
+cache/temp/f1588d701f50408281749b0a959ad4d5.png
+config/config/dlna.xml
+config/data/splashscreen.png
+config/data/ScheduledTasks/7738148f-fcd0-7979-c7ce-b148e06b3aed.js
+config/data/subtitles/c/cc832c68-f619-8524-f313-da9b8b5df28c.srt
+config/log/FFmpeg.Transcode-2023-04-18_17-32-57_8489f706e997f4149159000cf6972788_4c02adbc.log
+config/log/FFmpeg.Transcode-2023-04-18_17-32-59_8489f706e997f4149159000cf6972788_419aeb72.log
+config/log/FFmpeg.Transcode-2023-04-18_17-33-02_8489f706e997f4149159000cf6972788_3dd5d2b6.log
+config/log/FFmpeg.Transcode-2023-04-18_17-33-03_8489f706e997f4149159000cf6972788_c7e34260.log
+config/log/FFmpeg.Transcode-2023-04-18_17-33-07_8489f706e997f4149159000cf6972788_b5be34e5.log
+config/log/FFmpeg.Transcode-2023-04-18_17-33-07_8489f706e997f4149159000cf6972788_fd0174f3.log
+config/log/FFmpeg.Transcode-2023-04-18_17-33-14_8489f706e997f4149159000cf6972788_3d102756.log
+config/log/FFmpeg.Transcode-2023-04-18_17-33-15_8489f706e997f4149159000cf6972788_90b8470c.log
+config/log/FFmpeg.Transcode-2023-04-18_17-33-17_8489f706e997f4149159000cf6972788_846b2a20.log
+config/log/FFmpeg.Transcode-2023-04-18_17-33-18_8489f706e997f4149159000cf6972788_474d3925.log
+config/log/FFmpeg.Transcode-2023-04-18_17-33-20_8489f706e997f4149159000cf6972788_6105fef1.log
+config/log/FFmpeg.Transcode-2023-04-18_17-33-30_8489f706e997f4149159000cf6972788_438649c8.log
+config/log/FFmpeg.Transcode-2023-04-18_17-33-31_8489f706e997f4149159000cf6972788_379bf62e.log
+config/log/FFmpeg.Transcode-2023-04-18_17-35-48_a8049389991f785f4bafbf00b20843be_aefc1c78.log
+config/log/FFmpeg.Transcode-2023-04-18_17-35-50_a8049389991f785f4bafbf00b20843be_373465dd.log
+config/log/FFmpeg.Transcode-2023-04-18_17-35-58_a8049389991f785f4bafbf00b20843be_cb9e34a3.log
+config/log/FFmpeg.Transcode-2023-04-18_17-36-00_a8049389991f785f4bafbf00b20843be_dc56ac60.log
+config/log/FFmpeg.Transcode-2023-04-18_17-36-36_88d9b2aa722d71f567dd9b85fc78a93a_c9f88049.log
+config/log/FFmpeg.Transcode-2023-04-18_17-36-38_88d9b2aa722d71f567dd9b85fc78a93a_4b2b17a9.log
+config/log/FFmpeg.Transcode-2023-04-18_17-41-04_88d9b2aa722d71f567dd9b85fc78a93a_af724f8b.log
+config/log/FFmpeg.Transcode-2023-04-18_17-41-05_88d9b2aa722d71f567dd9b85fc78a93a_c73b5cbe.log
+config/metadata/People/A/Al Pacino/folder.jpg
+config/metadata/People/A/Alexander Arnold/folder.jpg
+config/metadata/People/A/Andy García/folder.jpg
+config/metadata/People/B/Billy J. Mitchell/folder.jpg
+config/metadata/People/B/Bridget Fonda/folder.jpg
+config/metadata/People/C/Cameron Britton/folder.jpg
+config/metadata/People/C/Christopher Villiers/folder.jpg
+config/metadata/People/D/Danny Boyle/folder.jpg
+config/metadata/People/D/David Magee/folder.jpg
+config/metadata/People/D/David Zucker/folder.jpg
+config/metadata/People/D/Diane Keaton/folder.jpg
+config/metadata/People/D/Don Novello/folder.jpg
+config/metadata/People/D/Donal Donnelly/folder.jpg
+config/metadata/People/E/Ed Sheeran/folder.jpg
+config/metadata/People/E/Eli Wallach/folder.jpg
+config/metadata/People/E/Elle Chapman/folder.jpg
+config/metadata/People/E/Eric Fellner/folder.jpg
+config/metadata/People/F/Franc D'Ambrosio/folder.jpg
+config/metadata/People/F/Francis Ford Coppola/folder.jpg
+config/metadata/People/F/Fred Roos/folder.jpg
+config/metadata/People/G/Gary Goetzman/folder.jpg
+config/metadata/People/G/George Hamilton/folder.jpg
+config/metadata/People/H/Hannes Holm/folder.jpg
+config/metadata/People/H/Harry Ditson/folder.jpg
+config/metadata/People/H/Harry Michell/folder.jpg
+config/metadata/People/H/Helmut Berger/folder.jpg
+config/metadata/People/H/Himesh Patel/folder.jpg
+config/metadata/People/I/Ian McNeice/folder.jpg
+config/metadata/People/J/James Corden/folder.jpg
+config/metadata/People/J/Jeremy Kemp/folder.jpg
+config/metadata/People/J/Jerry Zucker/folder.jpg
+config/metadata/People/J/Jim Abrahams/folder.jpg
+config/metadata/People/J/Jim Carter/folder.jpg
+config/metadata/People/J/Joe Fishel/folder.jpg
+config/metadata/People/J/Joe Mantegna/folder.jpg
+config/metadata/People/J/Joel Fry/folder.jpg
+config/metadata/People/J/John Higgins/folder.jpg
+config/metadata/People/J/Juanita Jennings/folder.jpg
+config/metadata/People/J/Justin Edwards/folder.jpg
+config/metadata/People/K/Kailey Hyman/folder.jpg
+config/metadata/People/K/Kate McKinnon/folder.jpg
+config/metadata/People/K/Kelly Lamor Wilson/folder.jpg
+config/metadata/People/L/Lamorne Morris/folder.jpg
+config/metadata/People/L/Lily James/folder.jpg
+config/metadata/People/L/Lucy Gutteridge/folder.jpg
+config/metadata/People/M/Manuel Garcia-Rulfo/folder.jpg
+config/metadata/People/M/Marc Forster/folder.jpg
+config/metadata/People/M/Mariana Treviño/folder.jpg
+config/metadata/People/M/Mario Puzo/folder.jpg
+config/metadata/People/M/Martyn Burke/folder.jpg
+config/metadata/People/M/Meera Syal/folder.jpg
+config/metadata/People/M/Michael Gough/folder.jpg
+config/metadata/People/M/Michael Kiwanuka/folder.jpg
+config/metadata/People/M/Mike Birbiglia/folder.jpg
+config/metadata/People/O/Omar Sharif/folder.jpg
+config/metadata/People/P/Peter Cushing/folder.jpg
+config/metadata/People/P/Peter Galison/folder.jpg
+config/metadata/People/R/Rachel Keller/folder.jpg
+config/metadata/People/R/Raf Vallone/folder.jpg
+config/metadata/People/R/Richard Bright/folder.jpg
+config/metadata/People/R/Richard Curtis/folder.jpg
+config/metadata/People/R/Rita Wilson/folder.jpg
+config/metadata/People/R/Robb Moss/folder.jpg
+config/metadata/People/S/Sanjeev Bhaskar/folder.jpg
+config/metadata/People/S/Sarah Lancashire/folder.jpg
+config/metadata/People/S/Sofia Coppola/folder.jpg
+config/metadata/People/S/Sophia Di Martino/folder.jpg
+config/metadata/People/T/Talia Shire/folder.jpg
+config/metadata/People/T/Tom Hanks/folder.jpg
+config/metadata/People/T/Tristram Jellinek/folder.jpg
+config/metadata/People/T/Truman Hanks/folder.jpg
+config/metadata/People/V/Val Kilmer/folder.jpg
+config/metadata/People/W/Warren Clarke/folder.jpg
+config/metadata/Studio/American Zoetrope/landscape.jpg
+config/metadata/Studio/Columbia Pictures/landscape.jpg
+config/metadata/Studio/Paramount/landscape.jpg
+config/metadata/Studio/Playtone/landscape.jpg
+config/metadata/Studio/Working Title Films/landscape.jpg
+config/metadata/library/09/090eac6e9de4fe1fbc194e5b96691277/poster.png
+config/metadata/library/12/12ebade2b01dcef59c05cc48faaf2b15/poster.png
+config/metadata/library/1b/1b750d05e7fcee9abb96dc6b82cdc51a/poster.jpg
+config/metadata/library/1f/1ffc72e19987e5fa4047c6a6870646cf/poster.png
+config/metadata/library/21/21da0f2b2daba86e8460701a5fda2e77/poster.png
+config/metadata/library/63/63ea818bbe555e044619e18e662a0a66/poster.png
+config/metadata/library/7c/7c50e41ddabe69bebc5f9449e3dcb874/poster.png
+config/metadata/library/81/8199e032a96e168bb81b2def8b2eda31/poster.png
+config/metadata/library/81/81f5faa039ae04ad978a30414910a987/backdrop.jpg
+config/metadata/library/81/81f5faa039ae04ad978a30414910a987/logo.png
+config/metadata/library/81/81f5faa039ae04ad978a30414910a987/poster.jpg
+config/metadata/library/84/8489f706e997f4149159000cf6972788/poster.jpg
+config/metadata/library/84/84de00178b71c6056840a578a2209575/poster.png
+config/metadata/library/88/88d9b2aa722d71f567dd9b85fc78a93a/backdrop.jpg
+config/metadata/library/88/88d9b2aa722d71f567dd9b85fc78a93a/logo.png
+config/metadata/library/88/88d9b2aa722d71f567dd9b85fc78a93a/poster.jpg
+config/metadata/library/91/9150ecde3c1fbcf557ff3a58cc0bfd2d/backdrop.jpg
+config/metadata/library/91/9150ecde3c1fbcf557ff3a58cc0bfd2d/logo.png
+config/metadata/library/91/9150ecde3c1fbcf557ff3a58cc0bfd2d/poster.jpg
+config/metadata/library/a0/a0c9eec69d701796a52ad935a6e11900/folder.jpg
+config/metadata/library/e9/e9d5075a555c1cbc394eec4cef295274/poster.png
+config/metadata/library/eb/eb35915e8e4613b3163c5831d2b58439/backdrop.jpg
+config/metadata/library/eb/eb35915e8e4613b3163c5831d2b58439/logo.png
+config/metadata/library/eb/eb35915e8e4613b3163c5831d2b58439/poster.jpg
+config/metadata/library/ed/ed2a25286c558a96e1424971742ca250/poster.png
+config/plugins/configurations/Jellyfin.Plugin.Omdb.xml
+config/plugins/configurations/Jellyfin.Plugin.StudioImages.xml
+config/plugins/configurations/Jellyfin.Plugin.Tmdb.xml
+config/root/default/Películas/movies.collection
+config/root/default/Películas/options.xml
+config/root/default/Películas/peliculas.mblink

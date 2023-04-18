@@ -21,4 +21,5 @@ services:
       - /Users/alemol/proyectos/medusa-proyect/config:/config
       - /Users/alemol/proyectos/medusa-proyect/cache:/cache
       - /Users/alemol/proyectos/medusa-proyect/media:/media
+      - /Users/alemol/Downloads/Peliculas:/peliculas
     restart: 'unless-stopped'
