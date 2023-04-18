@@ -7,9 +7,10 @@ services:
     network_mode: 'bridge'
     ports:
       - 8096:8096
+      - 8920:8920 #optional
     volumes:
       - E:\jellyfin\config:/config
       - E:\jellyfin\cache:/cache
       - E:\jellyfin\media:/media
       - E:\jellyfin\media2:/media2
-    restart: 'unless-stopped'
+    restart: always
