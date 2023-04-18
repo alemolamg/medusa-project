@@ -1,0 +1,40 @@
+config/config/encoding.xml
+config/config/logging.default.json
+config/config/migrations.xml
+config/config/network.xml
+config/config/system.xml
+config/config/dlna/system/Default.xml
+config/config/dlna/system/Denon AVR.xml
+config/config/dlna/system/DirecTV HD-DVR.xml
+config/config/dlna/system/Dish Hopper-Joey.xml
+config/config/dlna/system/foobar2000.xml
+config/config/dlna/system/LG Smart TV.xml
+config/config/dlna/system/Linksys DMA2100.xml
+config/config/dlna/system/Marantz.xml
+config/config/dlna/system/MediaMonkey.xml
+config/config/dlna/system/Panasonic Viera.xml
+config/config/dlna/system/Popcorn Hour.xml
+config/config/dlna/system/Samsung Smart TV.xml
+config/config/dlna/system/Sony Blu-ray Player 2013.xml
+config/config/dlna/system/Sony Blu-ray Player 2014.xml
+config/config/dlna/system/Sony Blu-ray Player 2015.xml
+config/config/dlna/system/Sony Blu-ray Player 2016.xml
+config/config/dlna/system/Sony Blu-ray Player.xml
+config/config/dlna/system/Sony Bravia (2010).xml
+config/config/dlna/system/Sony Bravia (2011).xml
+config/config/dlna/system/Sony Bravia (2012).xml
+config/config/dlna/system/Sony Bravia (2013).xml
+config/config/dlna/system/Sony Bravia (2014).xml
+config/config/dlna/system/Sony PlayStation 3.xml
+config/config/dlna/system/Sony PlayStation 4.xml
+config/config/dlna/system/WDTV Live.xml
+config/config/dlna/system/Xbox One.xml
+config/data/device.txt
+config/data/jellyfin.db
+config/data/jellyfin.db-shm
+config/data/jellyfin.db-wal
+config/data/library.db
+config/data/library.db-journal
+config/data/ScheduledTasks/f9b057c0-54e9-e6da-ee4a-88ffd146a403.js
+config/log/log_20230418.log
+config/plugins/configurations/Jellyfin.Plugin.MusicBrainz.xml
