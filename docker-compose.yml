@@ -2,7 +2,7 @@ version: '3.5'
 services:
   jellyfin:
     image: jellyfin/jellyfin
-    container_name: jellyfin-beta
+    container_name: jellyBeta
     user: 1000:1000
     network_mode: 'bridge'
     ports:
