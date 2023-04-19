@@ -255,3 +255,101 @@ config/plugins/configurations/Jellyfin.Plugin.Tmdb.xml
 config/root/default/Películas/movies.collection
 config/root/default/Películas/options.xml
 config/root/default/Películas/peliculas.mblink
+config/Library/Application Support/Plex Media Server/.LocalAdminToken
+config/Library/Application Support/Plex Media Server/Preferences.xml
+config/Library/Application Support/Plex Media Server/Setup Plex.html
+config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json
+config/Library/Application Support/Plex Media Server/Cache/cert-v2.p12
+config/Library/Application Support/Plex Media Server/Cache/CloudAccessV2.dat
+config/Library/Application Support/Plex Media Server/Cache/CloudUsersSubscriptionsV2.dat
+config/Library/Application Support/Plex Media Server/Cache/CloudUsersV2.dat
+config/Library/Application Support/Plex Media Server/Cache/Flags.dat
+config/Library/Application Support/Plex Media Server/Cache/Privacy.dat
+config/Library/Application Support/Plex Media Server/Cache/UpdateChannels.dat
+config/Library/Application Support/Plex Media Server/Cache/PhotoTranscoder/11/115e1cdb6a19289f07e6ef596a5c1675fc6bfde1.jpg
+config/Library/Application Support/Plex Media Server/Cache/PhotoTranscoder/c6/c6740a4243c5a1fa5703ef70d57fb4e87f21710b.jpg
+config/Library/Application Support/Plex Media Server/Codecs/.device-id
+config/Library/Application Support/Plex Media Server/Crash Reports/.RateLimit.json
+config/Library/Application Support/Plex Media Server/Logs/Plex Crash Uploader.log
+config/Library/Application Support/Plex Media Server/Logs/Plex Media Server.log
+config/Library/Application Support/Plex Media Server/Logs/Plex Tuner Service.log
+config/Library/Application Support/Plex Media Server/Logs/PMS Plugin Logs/com.plexapp.agents.fanarttv.log
+config/Library/Application Support/Plex Media Server/Logs/PMS Plugin Logs/com.plexapp.agents.htbackdrops.log
+config/Library/Application Support/Plex Media Server/Logs/PMS Plugin Logs/com.plexapp.agents.imdb.log
+config/Library/Application Support/Plex Media Server/Logs/PMS Plugin Logs/com.plexapp.agents.imdb.log.1
+config/Library/Application Support/Plex Media Server/Logs/PMS Plugin Logs/com.plexapp.agents.lastfm.log
+config/Library/Application Support/Plex Media Server/Logs/PMS Plugin Logs/com.plexapp.agents.localmedia.log
+config/Library/Application Support/Plex Media Server/Logs/PMS Plugin Logs/com.plexapp.agents.localmedia.log.1
+config/Library/Application Support/Plex Media Server/Logs/PMS Plugin Logs/com.plexapp.agents.localmedia.log.2
+config/Library/Application Support/Plex Media Server/Logs/PMS Plugin Logs/com.plexapp.agents.lyricfind.log
+config/Library/Application Support/Plex Media Server/Logs/PMS Plugin Logs/com.plexapp.agents.movieposterdb.log
+config/Library/Application Support/Plex Media Server/Logs/PMS Plugin Logs/com.plexapp.agents.none.log
+config/Library/Application Support/Plex Media Server/Logs/PMS Plugin Logs/com.plexapp.agents.opensubtitles.log
+config/Library/Application Support/Plex Media Server/Logs/PMS Plugin Logs/com.plexapp.agents.plexthememusic.log
+config/Library/Application Support/Plex Media Server/Logs/PMS Plugin Logs/com.plexapp.agents.themoviedb.log
+config/Library/Application Support/Plex Media Server/Logs/PMS Plugin Logs/com.plexapp.agents.thetvdb.log
+config/Library/Application Support/Plex Media Server/Logs/PMS Plugin Logs/com.plexapp.system.log
+config/Library/Application Support/Plex Media Server/Logs/PMS Plugin Logs/org.musicbrainz.agents.music.log
+config/Library/Application Support/Plex Media Server/Logs/PMS Plugin Logs/tv.plex.agents.movie.log
+config/Library/Application Support/Plex Media Server/Logs/PMS Plugin Logs/tv.plex.agents.music.log
+config/Library/Application Support/Plex Media Server/Logs/PMS Plugin Logs/tv.plex.agents.series.log
+config/Library/Application Support/Plex Media Server/Plug-in Support/Caches/com.plexapp.agents.imdb/HTTP.system/CacheInfo
+config/Library/Application Support/Plex Media Server/Plug-in Support/Caches/com.plexapp.agents.localmedia/HTTP.system/CacheInfo
+config/Library/Application Support/Plex Media Server/Plug-in Support/Data/com.plexapp.agents.fanarttv/HTTPCookies
+config/Library/Application Support/Plex Media Server/Plug-in Support/Data/com.plexapp.agents.fanarttv/StoredValues
+config/Library/Application Support/Plex Media Server/Plug-in Support/Data/com.plexapp.agents.htbackdrops/HTTPCookies
+config/Library/Application Support/Plex Media Server/Plug-in Support/Data/com.plexapp.agents.htbackdrops/StoredValues
+config/Library/Application Support/Plex Media Server/Plug-in Support/Data/com.plexapp.agents.imdb/HTTPCookies
+config/Library/Application Support/Plex Media Server/Plug-in Support/Data/com.plexapp.agents.imdb/StoredValues
+config/Library/Application Support/Plex Media Server/Plug-in Support/Data/com.plexapp.agents.lastfm/HTTPCookies
+config/Library/Application Support/Plex Media Server/Plug-in Support/Data/com.plexapp.agents.lastfm/StoredValues
+config/Library/Application Support/Plex Media Server/Plug-in Support/Data/com.plexapp.agents.localmedia/HTTPCookies
+config/Library/Application Support/Plex Media Server/Plug-in Support/Data/com.plexapp.agents.localmedia/StoredValues
+config/Library/Application Support/Plex Media Server/Plug-in Support/Data/com.plexapp.agents.lyricfind/HTTPCookies
+config/Library/Application Support/Plex Media Server/Plug-in Support/Data/com.plexapp.agents.lyricfind/StoredValues
+config/Library/Application Support/Plex Media Server/Plug-in Support/Data/com.plexapp.agents.movieposterdb/HTTPCookies
+config/Library/Application Support/Plex Media Server/Plug-in Support/Data/com.plexapp.agents.movieposterdb/StoredValues
+config/Library/Application Support/Plex Media Server/Plug-in Support/Data/com.plexapp.agents.none/HTTPCookies
+config/Library/Application Support/Plex Media Server/Plug-in Support/Data/com.plexapp.agents.none/StoredValues
+config/Library/Application Support/Plex Media Server/Plug-in Support/Data/com.plexapp.agents.opensubtitles/Dict
+config/Library/Application Support/Plex Media Server/Plug-in Support/Data/com.plexapp.agents.opensubtitles/HTTPCookies
+config/Library/Application Support/Plex Media Server/Plug-in Support/Data/com.plexapp.agents.opensubtitles/StoredValues
+config/Library/Application Support/Plex Media Server/Plug-in Support/Data/com.plexapp.agents.plexthememusic/HTTPCookies
+config/Library/Application Support/Plex Media Server/Plug-in Support/Data/com.plexapp.agents.plexthememusic/StoredValues
+config/Library/Application Support/Plex Media Server/Plug-in Support/Data/com.plexapp.agents.themoviedb/HTTPCookies
+config/Library/Application Support/Plex Media Server/Plug-in Support/Data/com.plexapp.agents.themoviedb/StoredValues
+config/Library/Application Support/Plex Media Server/Plug-in Support/Data/com.plexapp.agents.thetvdb/HTTPCookies
+config/Library/Application Support/Plex Media Server/Plug-in Support/Data/com.plexapp.agents.thetvdb/StoredValues
+config/Library/Application Support/Plex Media Server/Plug-in Support/Data/com.plexapp.system/Dict
+config/Library/Application Support/Plex Media Server/Plug-in Support/Data/com.plexapp.system/HTTPCookies
+config/Library/Application Support/Plex Media Server/Plug-in Support/Data/com.plexapp.system/StoredValues
+config/Library/Application Support/Plex Media Server/Plug-in Support/Data/org.musicbrainz.agents.music/HTTPCookies
+config/Library/Application Support/Plex Media Server/Plug-in Support/Data/org.musicbrainz.agents.music/StoredValues
+config/Library/Application Support/Plex Media Server/Plug-in Support/Data/tv.plex.agents.movie/HTTPCookies
+config/Library/Application Support/Plex Media Server/Plug-in Support/Data/tv.plex.agents.movie/StoredValues
+config/Library/Application Support/Plex Media Server/Plug-in Support/Data/tv.plex.agents.music/HTTPCookies
+config/Library/Application Support/Plex Media Server/Plug-in Support/Data/tv.plex.agents.music/StoredValues
+config/Library/Application Support/Plex Media Server/Plug-in Support/Data/tv.plex.agents.series/HTTPCookies
+config/Library/Application Support/Plex Media Server/Plug-in Support/Data/tv.plex.agents.series/StoredValues
+config/Library/Application Support/Plex Media Server/Plug-in Support/Databases/com.plexapp.plugins.library.blobs.db
+config/Library/Application Support/Plex Media Server/Plug-in Support/Databases/com.plexapp.plugins.library.db
+config/Library/Application Support/Plex Media Server/Plug-in Support/Metadata Combination/com.plexapp.agents.imdb/Movies.xml
+config/Library/Application Support/Plex Media Server/Plug-in Support/Metadata Combination/com.plexapp.agents.lastfm/Albums.xml
+config/Library/Application Support/Plex Media Server/Plug-in Support/Metadata Combination/com.plexapp.agents.lastfm/Artists.xml
+config/Library/Application Support/Plex Media Server/Plug-in Support/Metadata Combination/com.plexapp.agents.localmedia/Albums.xml
+config/Library/Application Support/Plex Media Server/Plug-in Support/Metadata Combination/com.plexapp.agents.localmedia/Artists.xml
+config/Library/Application Support/Plex Media Server/Plug-in Support/Metadata Combination/com.plexapp.agents.localmedia/Movies.xml
+config/Library/Application Support/Plex Media Server/Plug-in Support/Metadata Combination/com.plexapp.agents.localmedia/TV Shows.xml
+config/Library/Application Support/Plex Media Server/Plug-in Support/Metadata Combination/com.plexapp.agents.none/Albums.xml
+config/Library/Application Support/Plex Media Server/Plug-in Support/Metadata Combination/com.plexapp.agents.none/Artists.xml
+config/Library/Application Support/Plex Media Server/Plug-in Support/Metadata Combination/com.plexapp.agents.none/Movies.xml
+config/Library/Application Support/Plex Media Server/Plug-in Support/Metadata Combination/com.plexapp.agents.none/TV Shows.xml
+config/Library/Application Support/Plex Media Server/Plug-in Support/Metadata Combination/com.plexapp.agents.themoviedb/Movies.xml
+config/Library/Application Support/Plex Media Server/Plug-in Support/Metadata Combination/com.plexapp.agents.thetvdb/TV Shows.xml
+config/Library/Application Support/Plex Media Server/Plug-in Support/Metadata Combination/org.musicbrainz.agents.music/Albums.xml
+config/Library/Application Support/Plex Media Server/Plug-in Support/Metadata Combination/org.musicbrainz.agents.music/Artists.xml
+config/Library/Application Support/Plex Media Server/Plug-in Support/Metadata Combination/tv.plex.agents.music/Albums.xml
+config/Library/Application Support/Plex Media Server/Plug-in Support/Metadata Combination/tv.plex.agents.music/Artists.xml
+config/Library/Application Support/Plex Media Server/Plug-in Support/Preferences/com.plexapp.agents.imdb.xml
+config/Library/Application Support/Plex Media Server/Plug-in Support/Preferences/com.plexapp.agents.localmedia.xml
+config/Library/Application Support/Plex Media Server/Plug-in Support/Preferences/com.plexapp.system.xml
